@@ -35,6 +35,6 @@ These mini project assignments were solved for the EEE 475 Medical Image Reconst
 
 ## Homework #5
 **Tasks:** 
-- Parallel imaging in MRI
+- Compressed sensing parallel imaging in MRI
 - L1-SPIRiT reconstruction from scratch
 - L1 regularization in Wavelet domain
